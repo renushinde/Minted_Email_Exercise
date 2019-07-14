@@ -9,3 +9,6 @@ Most readers use their phones to look through an email. Having an email which is
 
 3.Email segmentation: 
 Segmentation and personalization is prooven to increase the email click through rates. Segmantation provides relevant and personalise offers to subcribers thus increasing the email click throgh rate. Tailoring an email towards customer's needs will get a click to the email. By adding elemnts of personalization, we can get customer's past purchase history, website activity and we can send relevant email to the subscriber. 
+
+4. A/B testing:
+Running an A/B tests on Email headline, preview texts, Call to action button, any image that is used will be helpful to see what's working and what's not working. 
