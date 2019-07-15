@@ -1,0 +1,3 @@
+Dear Hiring Manager,
+Thank you very much for giving me an opportunity to do this exercise! This was a great oppurtunity for me to write a detailed and clean code.
+I started with wireframing the email putting on different pieces together. I came up with the design, that will have the logo first, then the email of the body and last the footer. I've used single column layout through out the email and added different media queries for responsiveness towards different email clients. I tested the email in Gmail and it works perfectly fine! I've tetsted the responsiveness by adjuesting the window size.  
